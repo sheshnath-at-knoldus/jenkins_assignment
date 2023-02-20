@@ -7,7 +7,7 @@ class hello
 public static void main(String args[])
 {
 	hello h = new hello();	
-	System.out.println("hello its me sheshnath yadav updated and created to ");
+	System.out.println("hello its me sheshnath yadav updated and createo ");
 }
 
 }
